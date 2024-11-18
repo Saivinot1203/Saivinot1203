@@ -1,3 +1,5 @@
+Hi i'm Saivinoth Ghattamaneni pursuing my masters in University of Missouri Kanasas City.
+My skills and interest are:
 Data Engineering & ETL Development: Proficient in extracting and transforming data from various sources and loading it into target systems for data integration and analysis.
 SQL Expertise: Capable of developing stored procedures, tables, views, and functions to optimize data workflows.
 RDM & Teradata: Strong background in managing and developing reference data in Teradata environments.
