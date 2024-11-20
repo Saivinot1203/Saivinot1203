@@ -3,3 +3,7 @@ Master’s student at the University of Missouri-Kansas City with a passion for 
 Data Engineering: Skilled in ETL workflows, SQL development, Teradata, Snowflake, and Databricks (PySpark).
 Automation & Cloud: Experienced in Tidal Automation, AWS, and building scalable cloud-based solutions.
 Cybersecurity Interests: Exploring defensive strategies, intrusion detection, penetration testing, and ethical hacking.
+Under Grad Project - Warehouse Management system.
+
+Experience: 2 Years
+Company - Cognizant (Programmer Analyst) | RJ Renolds Tobacco Company Client
