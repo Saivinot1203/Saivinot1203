@@ -1,5 +1,5 @@
-**Master’s student at the University of Missouri-Kansas City 🎓 | Passionate about Data Engineering 💾 and Cybersecurity 🔒
-**
+**Master’s student at the University of Missouri-Kansas City 🎓** | **Passionate about Data Engineering 💾 and Cybersecurity 🔒**
+
 **Data Engineering:** Skilled in ETL workflows ⚙️, SQL development 📊, Teradata, Snowflake ☁️, and Databricks (PySpark).
 
 **Automation & Cloud:** Experienced in Tidal Automation 🕒, AWS 🌐, and building scalable cloud-based solutions 🛠️
