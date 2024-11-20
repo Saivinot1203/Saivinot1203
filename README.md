@@ -8,6 +8,8 @@
 
 **Undergrad Project:** Warehouse Management System (SQL, Python TKinter 🐍, HTML 🌐)
 
-**Experience:** 2 years as a Programmer Analyst at Cognizant 💼 | RJ Reynolds Tobacco Company Client 🚬
+**Experience:** 2 years as a Programmer Analyst at Cognizant 💼 | RJ Reynolds Tobacco Company Client 🚬 
+
+**LinkedIn - https://www.linkedin.com/in/saivinoth-ghattamaneni-7373aa1b1/**
 
 📈 Striving to transform data and secure systems!
